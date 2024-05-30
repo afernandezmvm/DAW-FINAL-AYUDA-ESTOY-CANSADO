@@ -1,3 +1,3 @@
 <?php
-echo "hola mi gente!!\n";
+echo "hola $nombre\n";
 ?>
