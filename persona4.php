@@ -1,3 +1,3 @@
 <?php
-echo "Fernano Alonso fiaum\n"
+echo "Jorge Lorenzo\n"
 ?>
